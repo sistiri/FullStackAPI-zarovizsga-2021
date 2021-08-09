@@ -294,7 +294,7 @@ components:
         price:
           type: number
         active:
-          type: 
+          type: boolean
     Race:
       type: object
       required:
